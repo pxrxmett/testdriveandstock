@@ -1,0 +1,37 @@
+[
+  {
+    "name": "upload",
+    "path": "/upload",
+    "component": "/Users/macos/Desktop/senior/testdrive2/pages/upload/index.vue",
+    "chunkName": "pages/upload/index",
+    "_name": "_795f08ac"
+  },
+  {
+    "name": "stock-import-success",
+    "path": "/stock/import-success",
+    "component": "/Users/macos/Desktop/senior/testdrive2/pages/stock/import-success.vue",
+    "chunkName": "pages/stock/import-success",
+    "_name": "_212d875c"
+  },
+  {
+    "name": "upload-add",
+    "path": "/upload/add",
+    "component": "/Users/macos/Desktop/senior/testdrive2/pages/upload/add.vue",
+    "chunkName": "pages/upload/add",
+    "_name": "_0d18fd0a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/macos/Desktop/senior/testdrive2/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_f232e8cc"
+  },
+  {
+    "name": "cars-id-edit-status",
+    "path": "/cars/:id?/edit-status",
+    "component": "/Users/macos/Desktop/senior/testdrive2/pages/cars/_id/edit-status.vue",
+    "chunkName": "pages/cars/_id/edit-status",
+    "_name": "_19e4ee90"
+  }
+]

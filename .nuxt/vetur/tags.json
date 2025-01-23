@@ -1,0 +1,35 @@
+{
+  "CarTable": {
+    "description": "Auto imported from components/CarTable.vue"
+  },
+  "DashboardHeader": {
+    "description": "Auto imported from components/DashboardHeader.vue"
+  },
+  "StatsCards": {
+    "description": "Auto imported from components/StatsCards.vue"
+  },
+  "StockEditCarStatus": {
+    "description": "Auto imported from components/stock/EditCarStatus.vue"
+  },
+  "UploadFileUpload": {
+    "description": "Auto imported from components/upload/FileUpload.vue"
+  },
+  "UploadFileValidation": {
+    "description": "Auto imported from components/upload/FileValidation.vue"
+  },
+  "UploadPageHeader": {
+    "description": "Auto imported from components/upload/PageHeader.vue"
+  },
+  "UploadProgressSteps": {
+    "description": "Auto imported from components/upload/ProgressSteps.vue"
+  },
+  "UploadCard": {
+    "description": "Auto imported from components/upload/UploadCard.vue"
+  },
+  "UploadHeader": {
+    "description": "Auto imported from components/upload/UploadHeader.vue"
+  },
+  "UploadSection": {
+    "description": "Auto imported from components/upload/UploadSection.vue"
+  }
+}
